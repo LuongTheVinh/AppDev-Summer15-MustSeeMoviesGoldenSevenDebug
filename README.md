@@ -29,7 +29,7 @@ Make yours work like it. Your local app is using a dark Bootswatch, and the refe
 
 ## Setup
 
- 1. Clone this repository.
+ 1. Fork and then clone.
  1. `cd` to its location.
  1. `bundle install`
  1. `rake db:migrate` (To create the four tables on your machine; I have already written the instructions to do so.)
